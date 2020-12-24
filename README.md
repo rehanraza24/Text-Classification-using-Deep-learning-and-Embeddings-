@@ -3,7 +3,11 @@
 In Notebook [imdb-sentiment-analysis](https://github.com/rehanraza44/Text-Classification-using-Deep-learning-and-Embeddings-/blob/main/imdb-sentiment-analysis.ipynb) i did preprocessing and after that i built RNN-LSTM model with Google-Pretrained Word2vec: 
 In Notebook [Deep neural networks Sentiment Analysis](https://github.com/rehanraza44/Text-Classification-using-Deep-learning-and-Embeddings-/blob/main/Deep%20neural%20networks%20Sentiment%20Analysis.ipynb) I have compared all neural networks for Text classification, i explained that how we can improve data<br>
 It is main notebook, where we can learn that how we can improve Text Classification models using 
-## Simple RNN's ## Word Embeddings ## LSTM's ## GRU's ## BI-Directional RNN's <br>
+#### Simple RNN's 
+#### Word Embeddings 
+#### LSTM's 
+#### GRU's 
+#### BI-Directional RNN's 
 In Notebook [Sarcasm Detection](https://github.com/rehanraza44/Text-Classification-using-Deep-learning-and-Embeddings-/blob/main/Sarcasm%20Detection.ipynb) it is very short version where i have just built Keras models and i made accuracy loss graphs.
 There are notebooks with model building BUT main part is Text preprocessing which is very important. <br>
 ### You can see this detailed [Text Preprocessing Notebook](https://github.com/rehanraza44/Twitter-Text-Sentiment-Analysis-) with Spacy,Gensim, Textblob and more about pretrained-Embedding Vectors where we visualise Similarity and using these we can imporve our models.
