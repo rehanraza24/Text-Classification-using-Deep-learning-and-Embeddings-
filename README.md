@@ -1,6 +1,6 @@
 ### There are multiple Notebooks, i have tried to cover all areas of Text classification. As Accuracy varies on different datasets but Overall Results are good if we improve, we can get better results. <br>
 
-In Notebook [imdb-sentiment-analysis](https://github.com/rehanraza44/Text-Classification-using-Deep-learning-and-Embeddings-/blob/main/imdb-sentiment-analysis.ipynb) i did preprocessing and after that i built RNN-LSTM model with Google-Pretrained Word2vec: 
+In Notebook [imdb-sentiment-analysis](https://github.com/rehanraza24/Text-Classification-using-Deep-learning-and-Embeddings-/blob/main/imdb-sentiment-analysis.ipynb) i did preprocessing and after that i built RNN-LSTM model with Google-Pretrained Word2vec: 
 In Notebook [Deep neural networks Sentiment Analysis](https://github.com/rehanraza44/Text-Classification-using-Deep-learning-and-Embeddings-/blob/main/Deep%20neural%20networks%20Sentiment%20Analysis.ipynb) I have compared all neural networks for Text classification, i explained that how we can improve data<br>
 It is main notebook, where we can learn that how we can improve Text Classification models using 
 #### Simple RNN's 
